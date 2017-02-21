@@ -1,0 +1,16 @@
+#main{
+    margin: 2%;
+}
+
+#title{
+    text-align: center;
+    font-weight: bold;
+}
+
+#researchQuestion, #analysis{
+    text-decoration: underline;
+}
+
+img{
+    border: solid 1px;
+}
